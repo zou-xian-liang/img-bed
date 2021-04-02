@@ -1,2 +1,4 @@
 # img-bed
-Typora文档图床
+Typora文档图床配置说明
+
+1、Typora配置结束后，点击验证图片上传选项，弹出的窗口中看一下端口是否与PicGo中配置的Server的监听端口保持一致，如果不一致，需要将PicGo中的端口改成Typora一致
